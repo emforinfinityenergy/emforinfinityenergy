@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+**I'm EM, a junior high student from China.**  
+Also see @Infinity-Energy
+
 <!--
 **emforinfinityenergy/emforinfinityenergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
