@@ -4,5 +4,5 @@
 *Maybe I'll be in America in few years.*
 
 - 🔭 I’m currently working on *my school work*
-- 🌱 I’m currently learning *C++ and English*
+- 🌱 I’m currently learning *German* (My mother forces me to do so)
 - 💬 Ask me about *how to solve 1 + 1*
